@@ -7,14 +7,14 @@ open class Person(val name: String) {
 class Father : Person("Father") {
     fun makeChild(name: String): Person? = Person(name)
 
-    val child1 = makeChild("child1")?.apply { sayName() }
-    val child2 = makeChild("child2").apply { sayName() }
+    val child1 = makeChild("Luke")?.apply { sayName() }
+    val child2 = makeChild("Leia").apply { this.sayName() }
 }
 
 Father()
 
 // What will it prints?
-// 1. child1 child2
-// 2. child1 Father
-// 3. Father child2
+// 1. Luke Leia
+// 2. Luke Father
+// 3. Father Leia
 // 4. Will not compile
