@@ -15,10 +15,12 @@ fun test() {
 
     helloNoInline {
         print("2")
+        return
     }
 
     helloInline {
         print("3")
+        return
     }
 
 }
@@ -29,4 +31,4 @@ test()
 // 1. 1
 // 2. 2
 // 3. 3
-// 4. 32
+// 4. Will not compile

@@ -1,4 +1,5 @@
 package part1
+println("Start\n\n.....")
 
 fun sayHello(name: String) = print("Hello $name")
 
