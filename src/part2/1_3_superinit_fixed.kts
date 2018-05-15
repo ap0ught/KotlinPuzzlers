@@ -1,17 +1,12 @@
 package part2
 
 class Greeting(val word: String)
-
 open class HerFather() {
     init {
         say()
     }
-
-    open fun say() {
-        print("Hi! I'm her Father!")
-    }
+    open fun say() = print("Luke! I'm your Father!")
 }
-
 class Friend() : HerFather() {
     private var greeting: Greeting? = null
         get() {
@@ -20,10 +15,8 @@ class Friend() : HerFather() {
             }
             return field
         }
-
     override fun say() = println(greeting!!.word)
 }
-
 Friend()
 
 // What will it prints?

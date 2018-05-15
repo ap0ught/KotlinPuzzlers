@@ -5,24 +5,19 @@ package part1
 
 inline fun helloInline(block: () -> Unit) = block()
 inline fun helloNoInline(noinline block: () -> Unit) = block
-
 fun test() {
-
     val hello = fun(){
         print("1")
         return
     }
-
     helloNoInline {
         print("2")
         return
     }
-
     helloInline {
         print("3")
         return
     }
-
 }
 
 test()

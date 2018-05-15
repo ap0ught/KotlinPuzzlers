@@ -9,7 +9,7 @@ val d = 4
 foo(c < a, b > d)
 
 // What will it prints?
-// 1. a=true, b=true
+// 1. a=false, b=null
 // 2. a=false, b=false
 // 3. a=null, b=null
 // 4. Will not compile
