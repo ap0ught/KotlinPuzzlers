@@ -1,4 +1,4 @@
-package part2
+package part3
 
 class Group(var names: Map<String, String>) {
     val he by names

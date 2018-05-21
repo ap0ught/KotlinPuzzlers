@@ -1,4 +1,4 @@
-package part2
+package part3
 
 open class Person(val name: String) {
     fun sayName() = println(name)

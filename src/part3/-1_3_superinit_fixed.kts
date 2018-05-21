@@ -1,4 +1,4 @@
-package part2
+package part3
 
 class Greeting(val word: String)
 open class HerFather() {
@@ -7,20 +7,20 @@ open class HerFather() {
     }
     open fun say() = print("Luke! I'm your Father!")
 }
-class Friend() : HerFather() {
+class FixedGirl() : HerFather() {
     private var greeting: Greeting? = null
         get() {
             if (field == null) {
-                field = Greeting("hello")
+                field = Greeting("I Love you!")
             }
             return field
         }
     override fun say() = println(greeting!!.word)
 }
-Friend()
+FixedGirl()
 
 // What will it prints?
 // 1. null
-// 2. hello
+// 2. Luke! I'm your Father!
 // 3. Will not compile
 // 4. None of the above

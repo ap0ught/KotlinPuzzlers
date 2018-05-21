@@ -1,4 +1,4 @@
-package part2
+package part1
 
 fun foo(a: Boolean, b: Boolean) = print("a=$a, b=$b")
 

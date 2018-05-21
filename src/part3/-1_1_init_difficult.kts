@@ -1,18 +1,18 @@
-package part2
+package part3
 
 class Friend() {
     val word: String
     init {
         say()
-        word = "hello"
+        word = "Hello"
     }
-    fun say() = if (word.isEmpty()) println("Hello") else println(word)
+    fun say() = if (word.isEmpty()) println("Goodbye") else println(word)
 }
 
 Friend()
 
 // What will it prints?
 // 1. Hello
-// 2. hello
+// 2. Goodbye
 // 3. Will Not Compile
 // 4. None of the above

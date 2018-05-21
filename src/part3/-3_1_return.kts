@@ -1,7 +1,7 @@
 //region suppress
 @file:Suppress("NOTHING_TO_INLINE", "UNUSED_VARIABLE")
 //endregion
-package part1
+package part3
 
 inline fun helloInline(block: () -> Unit) = block()
 inline fun helloNoInline(noinline block: () -> Unit) = block

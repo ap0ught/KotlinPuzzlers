@@ -8,4 +8,4 @@ if (s?.isEmpty()) print("empty")
 // 1. empty
 // 2. Nothing
 // 3. Will not compile
-// 4. TypeCastExcception
+// 4. NullPointerException

@@ -1,4 +1,4 @@
-package part2
+package part1
 
 val reallyVeryLongAndComplicatedCalculatedValueProcessedInBackgroundThread = 2
 val anotherReallyVeryLongAndComplicatedCalculatedValueProcessedInBackgroundThread = 3
