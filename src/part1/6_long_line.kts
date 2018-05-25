@@ -4,9 +4,9 @@ val reallyVeryLongAndComplicatedCalculatedValue = 2
 val anotherReallyVeryLongAndComplicatedCalculatedValue = 3
 
 val result =
-    1 +
-        reallyVeryLongAndComplicatedCalculatedValue +
-            anotherReallyVeryLongAndComplicatedCalculatedValue
+    1
+      + reallyVeryLongAndComplicatedCalculatedValue
+         +  anotherReallyVeryLongAndComplicatedCalculatedValue
 
 
 println(result)

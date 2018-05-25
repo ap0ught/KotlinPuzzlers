@@ -8,10 +8,10 @@ if (jedi != null && isDark) {
     println("What???")
 }
 // Improve code
-jedi?.takeIf{ isDark }.apply{ println("Of course Dark!") }
+jedi?.takeIf{ isDark }.apply{ println("Yoda is Dark!") }
 
 // What will it prints?
 // 1. What???
-// 2. What??? Of course Dark!
-// 3. Of course Dark!
+// 2. What??? Yoda is Dark!
+// 3. Yoda is Dark!
 // 4. Nothing
