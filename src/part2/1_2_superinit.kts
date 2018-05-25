@@ -1,4 +1,4 @@
-package part3
+package part2
 
 class Greeting(val word: String)
 open class HerFather() {
@@ -7,14 +7,9 @@ open class HerFather() {
     }
     open fun say() = print("Luke! I'm your Father!")
 }
+
 class Girl() : HerFather() {
-    private val greeting: Greeting
-        get() {
-            if (field == null) {
-                field = Greeting("I Love you!")
-            }
-            return field
-        }
+    private val greeting by lazy { Greeting("I Love you!") }
     override fun say() = println(greeting.word)
 }
 Girl()

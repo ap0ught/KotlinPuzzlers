@@ -1,4 +1,4 @@
-package part3
+package part2
 
 fun sayHello(name: String) {
     print("Hello $name")
