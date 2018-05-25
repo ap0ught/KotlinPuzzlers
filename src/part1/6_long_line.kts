@@ -1,12 +1,12 @@
 package part1
 
-val reallyVeryLongAndComplicatedCalculatedValueProcessedInBackgroundThread = 2
-val anotherReallyVeryLongAndComplicatedCalculatedValueProcessedInBackgroundThread = 3
+val reallyVeryLongAndComplicatedCalculatedValue = 2
+val anotherReallyVeryLongAndComplicatedCalculatedValue = 3
 
 val result =
-    1
-       + reallyVeryLongAndComplicatedCalculatedValueProcessedInBackgroundThread
-           + anotherReallyVeryLongAndComplicatedCalculatedValueProcessedInBackgroundThread
+    1 +
+        reallyVeryLongAndComplicatedCalculatedValue +
+            anotherReallyVeryLongAndComplicatedCalculatedValue
 
 
 println(result)
@@ -15,4 +15,4 @@ println(result)
 // 1. 1
 // 2. 2
 // 3. 3
-// 4. 5
+// 4. 6

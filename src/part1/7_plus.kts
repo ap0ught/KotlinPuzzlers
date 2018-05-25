@@ -1,6 +1,6 @@
 package part1
 
-infix operator fun Int.plus(i: Int) = this - i
+infix operator fun Int.plus(other: Int) = this - other
 
 println(-1 + 1)
 println(-1 plus 1)
