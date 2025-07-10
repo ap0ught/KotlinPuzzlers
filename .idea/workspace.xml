@@ -4,86 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71aad654-2dc2-4d65-9cd0-cb41546b3aa5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics_ai/solutions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler10_lateinit_val.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler11_operator_resolution.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler12_annotation_retention.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler13_inline_class_vs_data.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler14_reflection_invocation.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler15_lazy_thread_safety.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler1_smart_cast.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler2_sealed_exhaustive.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler3_inline_crossinline.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler4_typealias_function.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler5_coroutine_scope.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler6_reified_generics.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler7_tailrec_stackoverflow.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler8_destructuring_nulls.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/puzzler9_companion_extension.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency_ai/solutions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler10_string_capitalize.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler11_char_toLowerCase.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler12_date_setYear.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler13_date_setMonth.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler14_thread_suspend.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler15_thread_resume.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler16_system_run_finalizers_on_exit.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler1_deprecated_features.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler2_date_year.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler3_date_month.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler4_date_day.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler5_date_hours.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler6_date_minutes.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler7_date_seconds.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler8_thread_stop.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/puzzler9_data_input_stream_readLine.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deprecated_ai/solutions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler10_visibility_modifiers.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler11_const_vs_val.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler12_sealed_usage.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler13_semicolon_redundant.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler14_lambda_format.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler15_trailing_commas.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler1_var_vs_val.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler2_string_templates.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler3_when_expression.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler4_scoping_functions.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler5_default_args_alignment.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler6_kdoc_comment.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler7_extension_vs_top.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler8_data_class_copy.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/puzzler9_backing_property.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatting_ai/solutions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/initialization_ai/solutions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part1/1_whoslogic.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_ai/1_whoslogic.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part1/2_0_isempty.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_ai/2_0_isempty.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part1/2_1_isnullorempty.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_ai/2_1_isnullorempty.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part1/3_1_types.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_ai/3_1_types.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part1/3_2_loop.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_ai/3_2_loop.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part1/3_3_types.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_ai/3_3_types.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part1/4_syntax.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_ai/4_syntax.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part1/5_long_line.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_ai/5_long_line.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part1/6_plus.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_ai/6_plus.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/1_1_init_difficult.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/1_1_init_difficult.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/1_2_superinit.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/1_2_superinit.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/1_3_superinit.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/1_3_superinit.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/1_4_superinit_fixed.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/1_4_superinit_fixed.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/2_hello.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/2_hello.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/3_return.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/3_return.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/4_1_defaultval.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/4_1_defaultval.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/4_2_override.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/4_2_override.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/5_0_javainterop.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/5_0_javainterop.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/5_1_javainterop.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/5_1_javainterop.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/5_2_name.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/5_2_name.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/6_generic.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/6_generic.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/7_delegate.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/7_delegate.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/8_missing_operator.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/8_missing_operator.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part2/9_node.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/initialization_ai/9_node.kts" afterDir="false" />
-    </list>
+    <list default="true" id="71aad654-2dc2-4d65-9cd0-cb41546b3aa5" name="Changes" comment="Add new Kotlin puzzlers and update README with project details" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "conference/insanebyte-2018",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/code/KotlinPuzzlers",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -147,11 +68,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752182543426</updated>
-      <workItem from="1752182544717" duration="6509000" />
+      <workItem from="1752182544717" duration="7280000" />
     </task>
+    <task id="LOCAL-00001" summary="Add new Kotlin puzzlers and update README with project details">
+      <option name="closed" value="true" />
+      <created>1752189559645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752189559645</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new Kotlin puzzlers and update README with project details" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new Kotlin puzzlers and update README with project details" />
   </component>
 </project>
